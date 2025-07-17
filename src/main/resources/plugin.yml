@@ -1,0 +1,4 @@
+name: PuffishAttributeFixer
+version: 1.0
+main: me.chatgpt.puffish.AttributeFixerPlugin
+api-version: 1.20
